@@ -5,7 +5,7 @@ let emojis = ['✨', '🔥', '🌈', '💥', '🍀', '🐱', '🌸', '🎈', '�
 let gravity;
 let shakeForce = 0;
 
-function setup() {
+function windowResized() {
   createCanvas(windowWidth, windowWidth);
   background('#F9A800');
 
