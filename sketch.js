@@ -1,7 +1,7 @@
 let words = [];
 let input, button;
 let defaultWords = ['AI', 'WORD', 'ART', '互动', '表达', '自由', '探索', '感受', 'REGULATION', 'WHERE', '拼接者', '偷盗', 'THEFT'];
-let emojis = ['✨', '🔥', '🌈', '💥', '🍀', '🐱', '🌸', '🎈', '✂️', '🖌️', '🖍️', '🎨', '🧵', '🧶', '📐', '📏', '📌', '📎'];
+let emojis = ['✨', '🔥', '🌈', '💥', '🍀', '🐱', '🌸', '🎈', '✂️', '🖌️', '🖍️', '🎨', '🧵', '🧶', '📐', '📏', '📌'];
 let gravity;
 let shakeForce = 0;
 
