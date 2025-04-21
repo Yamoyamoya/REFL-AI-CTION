@@ -11,11 +11,11 @@ function setup() {
 
   input = createInput();
   input.position(20, 20);
-  input.size(600, 40);
+  input.size(280, 40);
   input.style('font-size', '20px');
   input.attribute('placeholder', 'REFL-AI-CTION 输入你的反AI馈');
 
-  button = createButton('DROP 掉落');
+  button = createButton('DROP');
   button.position(input.x + input.width + 15, 20);
   button.size(100, 40);
   button.style('font-size', '20px');
