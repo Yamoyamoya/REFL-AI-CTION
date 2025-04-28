@@ -2,7 +2,7 @@ let words = [];
 let gravity;
 let shakeForce = 0;
 
-let defaultWords = ['AI', 'WORD', 'ART', '互动', '表达', '自由', '探索', '感受', 'REGULATION', 'WHERE', '拼接者', '偷盗', 'THEFT'];
+let defaultWords = ['AI', 'WORD', 'ART', '互动', '表达', '自由', '探索', '感受', 'REGULATION', 'WHERE', '拼接者', '偷盗', 'THEFT','80%artistdisapprove', '“不要止步不前”', '偷子', '低审美', '创意真的要死了吗', 'THEFT'];
 let emojis = ['✨', '🔥', '🌈', '💥', '🍀', '🐱', '🌸', '🎈', '✂️', '🖌️', '🖍️', '🎨', '🧵', '🧶', '📐', '📏', '📌'];
 
 function setup() {
